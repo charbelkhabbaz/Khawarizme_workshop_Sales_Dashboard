@@ -26,6 +26,7 @@ In this project, I gained hands-on experience in:
 **Features**
 
 🔹 Key Performance Indicators (KPIs)
+
 📊 Transaction Performance
 
 Net Sales: Total revenue before tax
