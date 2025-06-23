@@ -5,7 +5,6 @@ This Power BI dashboard provides comprehensive analytics for Shopify sales data,
 
 In this project, I gained hands-on experience in:
 ✔ Data cleaning & transformation in Power Query
-✔ Data modeling with relationships between tables
 ✔ DAX calculations for custom KPIs (LTV, Repeat Rate, Avg. Order Value)
 ✔ Interactive visualizations with dynamic filtering
 ✔ User-friendly navigation with drill-through capabilities
