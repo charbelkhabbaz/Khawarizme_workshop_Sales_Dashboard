@@ -4,12 +4,17 @@
 This Power BI dashboard provides comprehensive analytics for Shopify sales data, delivering actionable insights into transaction performance, customer behavior, and regional trends. Built using real Shopify sales data, the dashboard helps stakeholders optimize sales strategies, improve customer retention, and enhance decision-making.
 
 In this project, I gained hands-on experience in:
+
 ✔ Data cleaning & transformation in Power Query
+
 ✔ DAX calculations for custom KPIs (LTV, Repeat Rate, Avg. Order Value)
+
 ✔ Interactive visualizations with dynamic filtering
+
 ✔ User-friendly navigation with drill-through capabilities
 
 **How to Run the Project**
+
 1- Download and install Power BI Desktop.
 
 2- Open the Power BI project file: Shopify_Sales_Analysis.pbix.
@@ -19,6 +24,7 @@ In this project, I gained hands-on experience in:
 4- Refresh the dataset to load the latest data.
 
 **Features**
+
 🔹 Key Performance Indicators (KPIs)
 📊 Transaction Performance
 
