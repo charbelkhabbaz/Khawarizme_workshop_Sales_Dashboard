@@ -63,11 +63,6 @@ Gateway Payment Method: Most used payment options
 
 Product Type Breakdown: Revenue by category
 
-🔍 Detailed Data Exploration
-
-Drill-through from summaries to transaction-level data
-
-Interactive filters for granular analysis
 
 ![Capture1](https://github.com/user-attachments/assets/3ed3594d-68f1-4dfa-b58f-fd9eae4f54b2)
 
